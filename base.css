@@ -5,7 +5,7 @@
 
 html,
 body {
-    background-color:pink;
+    background-color: pink;
 }
 div,
 span,
@@ -106,9 +106,6 @@ menu,
 nav,
 section {
   display: block;
-}
-body {
-  /* Add background-color declaration here */
 }
 ol,
 ul {
